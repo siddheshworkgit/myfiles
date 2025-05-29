@@ -1,0 +1,912 @@
+
+/*Smaller Size Screen Settings*/
+
+@media (max-width: 550px) {
+
+.heading{
+  font-size: 1.8rem !important;
+  margin-top: 3%;
+}
+
+.sub-heading{
+  font-size:1rem !important;
+
+}
+.hdin-abtint{
+  font-size: 1.5rem !important;
+  text-align: center;
+}
+
+.admin-hda{
+  font-size: 1.8rem!important;
+}
+
+.app-headline{
+  font-size: 1.9rem !important;
+}
+.app-baseline{
+  font-size: 1.2rem!important;
+}
+.accr-heading{
+  font-size: 1.8rem !important;
+}
+.eng-dep-heading{
+  font-size: 1.8rem !important;
+}
+.nav-brand-up{
+  width: 150% !important;
+}
+
+.page-sub-hd{
+  font-size: 2rem!important;
+}
+
+.adm-ntc{
+  font-size: 1.5rem!important;
+}
+.ntf-blc{
+  font-size: 1.2rem!important;
+}
+.cdep-hd{
+  font-size: 1.8rem !important;
+}
+.scm-ico-lne{
+  font-size: 1.8rem !important;
+}
+.dep-headliner{
+  font-size: 1.8rem !important;
+}
+.dep-page-header{
+  font-size: 1.8rem !important;
+}
+.hod-img{
+  width: 50% !important;
+}
+.nme-hod{
+  font-size: 1.5rem !important;
+}
+.hod-msg{
+  font-size: 1.3rem!important;
+}
+.tch-ntch-stf{
+  font-size: 1.8rem!important;
+}
+.impdt{
+  font-size: 1.6rem!important;
+}
+.ul-imp-dt{
+  font-size: 1.2rem!important;
+
+}
+.ql-txt{
+  font-size: 1.8rem!important;
+
+}
+.nrfsc-txt{
+  font-size: 1.2rem!important;
+
+}
+.sclinc-txt{
+  font-size: 1.3rem !important;
+}
+
+.sc-lnc-act{
+  font-size: 1.1rem !important;
+}
+
+}
+
+/*Smaller Screen Size Settings Ends*/
+.sub-heading{
+  margin-top: 3%;
+  font-family: 'Ubuntu', sans-serif;
+  font-size:1.3rem;
+}
+.heading{
+   font-weight: 900;
+   font-family: 'Montserrat', sans-serif;
+   font-size:3rem;
+}
+/*Title image settings*/
+.nav-brand-up{
+  width: 70%;
+}
+
+
+/*Navbar Settings*/
+
+/*Home page settings*/
+.landing-screen{
+  text-align: center;
+  margin-top: 2%;
+}
+
+.dawnload-button{
+  /* margin-top: 4%; */
+  margin-top: 1.2%;
+  margin-bottom: 0%;
+  
+}
+
+.social-icon{
+  text-align: right;
+  margin-top: 3%;
+}
+
+/*Social Icons Settings*/
+.btn.btn-social-icon {
+    width: 50px;
+    height: 50px;
+    padding: 0;
+}
+
+.template-demo>.btn {
+    margin-right: 0.5rem !important;
+}
+
+.template-demo {
+    margin-top: 0.5rem !important;
+}
+
+.btn.btn-rounded {
+    border-radius: 50px;
+}
+
+.btn-outline-facebook {
+    border: 1px solid #3b579d;
+    color: #3b579d;
+}
+
+.btn-outline-facebook:hover {
+    background: #3b579d;
+    color: #ffffff;
+}
+
+.btn-outline-youtube {
+    border: 1px solid #e52d27;
+    color: #e52d27;
+}
+
+.btn-outline-twitter {
+    border: 1px solid #2caae1;
+    color: #2caae1;
+}
+
+
+.btn-outline-linkedin {
+    border: 1px solid #0177b5;
+    color: #0177b5;
+}
+
+.btn-outline-instagram {
+  border: 1px solid #ea4c89;
+     color: #ea4c89;
+}
+
+.btn-outline-twitter:hover {
+    background: #2caae1;
+    color: #ffffff;
+}
+
+.btn-outline-linkedin:hover {
+    background: #0177b5;
+    color: #ffffff;
+}
+
+.btn-outline-youtube:hover {
+    background: #e52d27;
+    color: #ffffff;
+}
+
+.btn-outline-instagram:hover {
+  background: #e51e6b;
+    color: #ffffff;
+}
+
+.btn-facebook {
+    background: #3b579d;
+    color: #ffffff;
+}
+
+.btn-youtube {
+    background: #e52d27;
+    color: #ffffff;
+}
+
+.btn-twitter {
+    background: #2caae1;
+    color: #ffffff;
+}
+
+
+.btn-linkedin {
+    background: #0177b5;
+    color: #ffffff;
+}
+
+.btn-instagram {
+  background: #ea4c89;
+  color: #ffffff;
+}
+
+.btn-facebook:hover,
+.btn-facebook:focus {
+    background: #2d4278;
+    color: #ffffff;
+}
+
+.btn-youtube:hover,
+.btn-youtube:focus {
+    background: #c21d17;
+    color: #ffffff;
+}
+
+.btn-twitter:hover,
+.btn-twitter:focus {
+    background: #1b8dbf;
+    color: #ffffff;
+}
+
+
+.btn-linkedin:hover,
+.btn-linkedin:focus {
+    background: #015682;
+    color: #ffffff;
+}
+
+.btn-instagram:hover,
+.btn-instagram:focus {
+  background: #e51e6b;
+     color: #ffffff;
+}
+
+/*About Institute home section*/
+#about{
+  background: linear-gradient(180deg, rgba(8,174,234,0.639093137254902) 0%, rgba(42,245,152,0.5802696078431373) 100%)
+  ,url(../images/abt-img.png) no-repeat 0px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-attachment: fixed;
+  padding:1em 0;
+}
+
+.abt-int{
+  text-align: center;
+  margin-bottom: 3%;
+  margin-top: 5%;
+}
+
+.about-para{
+  text-align: justify;
+  line-height: 2rem;
+}
+
+.abt-pra-btn{
+  text-align: center;
+}
+
+/*Members section*/
+.administration-heading{
+  margin: 4% 0 4% 0;
+text-align: center;
+}
+
+#members p{
+  font-size: 0.9rem;
+  color: red;
+  margin: 0
+}
+
+.invadual-name{
+  color: red;
+  font-size: 1.2rem;
+}
+/* .carousel-caption{
+  padding: 0;
+  top: 74%
+} */
+/*Members Carsoul*/
+
+@media (max-width: 768px) {
+    .carousel-inner .carousel-item > div {
+        display: none;
+    }
+    .carousel-inner .carousel-item > div:first-child {
+        display: block;
+    }
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+    display: flex;
+}
+
+/* display 3 */
+@media (min-width: 768px) {
+
+    .carousel-inner .carousel-item-right.active,
+    .carousel-inner .carousel-item-next {
+      transform: translateX(33.333%);
+    }
+
+    .carousel-inner .carousel-item-left.active,
+    .carousel-inner .carousel-item-prev {
+      transform: translateX(-33.333%);
+    }
+}
+
+.carousel-inner .carousel-item-right,
+.carousel-inner .carousel-item-left{
+  transform: translateX(0);
+}
+
+@media screen and (max-width: 1349px) and (min-width: 978px){
+.top-image-card{
+  position: absolute;
+  top: -20%;
+  left: 36%;
+
+}
+}
+
+@media screen and (max-width: 991px) and (min-width: 668px){
+.top-image-card{
+  position: absolute;
+  top: -20%;
+  left: 28%;
+
+}
+}
+
+/*Notification panal*/
+
+.notification-bar {
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+  margin: 0 auto;
+}
+
+.notification-content {
+  position: absolute;
+  width: 100%;
+}
+
+.notification-pane-out{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.notification-pane-in{
+  padding: 5% 0 5% 0;
+  text-align: center;
+  color: white;
+background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+}
+
+/*App Landing Screen*/
+
+#app-down{
+background: linear-gradient(180deg, rgba(8,174,234,0.639093137254902) 0%, rgba(42,245,152,0.5802696078431373) 100%)
+,url(../images/bg-app.png) no-repeat 0px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-attachment: fixed;
+  padding:1em 0;
+}
+
+.phone-image{
+  width: 65%;
+}
+
+.phone-image-div{
+  text-align: center;
+}
+
+.app-dawnload-btn{
+  width: 40%
+}
+
+.android-btn{
+  margin-right: 8%;
+}
+/*Main Links And Accredential Page*/
+#Assoceates{
+  margin-top: 8%;
+  margin-bottom: 6%
+}
+
+.aicte{
+width: 10%
+}
+
+.dte{
+width: 12%;
+}
+
+.msbte{
+width: 14%;
+}
+
+.mhshasan{
+width: 12%
+}
+
+.mhrd{
+width: 14%
+}
+.accreditation-links-a{
+  transition: .2s;
+  text-decoration:none;
+}
+
+.accreditation-links-a:hover{
+  opacity: 1;
+text-decoration:none;
+}
+
+.accreditation-links{
+  text-align: center;
+  margin-left:3%;
+  filter: grayscale(100%);
+  opacity: .6;
+  transition: .2s;
+}
+.accreditation-links:hover{
+  filter: grayscale(0%);
+  opacity: 1;
+margin-top: -12px;
+text-decoration:none;
+}
+
+/*department Carsoul*/
+
+/*Carsoul Card Settings*/
+@media (max-width: 768px) {
+    .carousel-inner .carousel-item > div {
+        display: none;
+    }
+    .carousel-inner .carousel-item > div:first-child {
+        display: block;
+    }
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+    display: flex;
+}
+
+/* display 3 */
+@media (min-width: 768px) {
+
+    .carousel-inner .carousel-item-right.active,
+    .carousel-inner .carousel-item-next {
+      transform: translateX(33.333%);
+    }
+
+    .carousel-inner .carousel-item-left.active,
+    .carousel-inner .carousel-item-prev {
+      transform: translateX(-33.333%);
+    }
+}
+
+.carousel-inner .carousel-item-right,
+.carousel-inner .carousel-item-left{
+  transform: translateX(0);
+}
+
+
+/* card settings */
+
+.cbdy-cas{
+  text-align: center;
+}
+
+.crd-ttl-cas{
+
+margin-top: 20%;
+
+}
+
+.top-image-card-cas{
+  position: absolute;
+  top: -20%;
+  left: 38%;
+
+}
+
+@media screen and (max-width: 1349px) and (min-width: 978px){
+.top-image-card{
+  position: absolute;
+  top: -20%;
+  left: 36%;
+
+}
+}
+
+@media screen and (max-width: 991px) and (min-width: 668px){
+.top-image-card{
+  position: absolute;
+  top: -20%;
+  left: 28%;
+
+}
+}
+
+.cas-edp{
+  margin-top: 80px;
+}
+
+/*the settings of card-carsoul ending here */
+
+/*Institute Page Settings*/
+.landing-screen-int{
+  text-align: center;
+  margin-bottom: 2%;
+  margin-top: 5%;
+}
+
+
+
+.counter-combiner{
+  text-align: center;
+}
+/*All Page Card Settings*/
+.int-sec{
+
+margin-bottom: 5%
+
+}
+
+.card-body-navi{
+  text-align: center;
+}
+
+.card-body-navi:hover{
+
+background: linear-gradient(0deg, rgba(8,174,234,0.6811099439775911) 0%, rgba(42,245,152,0.6418942577030813) 100%);
+
+}
+
+.card-body-navi-ota{
+  text-align: center;
+}
+
+
+.card-title-navi{
+
+margin-top: 20%;
+
+}
+
+.top-image-card-navi{
+  position: absolute;
+  top: -20%;
+  left: 38%;
+
+}
+
+@media screen and (max-width: 1349px) and (min-width: 978px){
+.top-image-card-navi{
+  position: absolute;
+  top: -20%;
+  left: 36%;
+
+}
+}
+
+@media screen and (max-width: 991px) and (min-width: 668px){
+.top-image-card-navi{
+  position: absolute;
+  top: -20%;
+  left: 28%;
+
+}
+}
+
+.card-navi{
+  margin-top: 80px;
+}
+
+.navi-btn{
+  border-radius: 2px 20px;
+
+}
+
+.navi-btn-ota{
+  border-radius: 2px 20px;
+  width: 40%;
+}
+
+.navi-btn:hover{
+  background:white;
+  color: black;
+  border-color: white;
+}
+
+/*Footer Sttongs*/
+
+#footer{
+	background: url(../images/13.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-attachment: fixed;
+	padding:1em 0;
+
+}
+
+#footer h3 {
+	font-size: 1.5em;
+    color: #ffffff;
+    font-weight: 300;
+    margin-bottom: 1em;
+}
+
+#footer p{
+  color: #ffffff;
+  line-height: 2rem;
+}
+.link-all{
+  text-decoration: none !important;
+  color: #ffffff;
+  line-height: 2rem;
+}
+
+.link-all:hover{
+  color: white;
+}
+/*Mega Change*/
+#footer {
+  text-decoration: none;
+  color: #ffffff;
+  list-style-type: none;
+  line-height: 2.5rem;
+
+}
+
+.abt-us-ftr{
+padding-right:60px;
+}
+
+.ftr-ul{
+  padding-left:100px;
+}
+
+@media screen and (max-width: 890px){
+#footer{
+  text-align: center;
+}
+#footer ul{
+  padding-left: 0;
+}
+
+.abt-us-ftr{
+  padding-right: 0;
+}
+
+}
+
+/*INSTITUTE SECTION SETTINGS*/
+
+#counters-sec{
+  background: linear-gradient(100deg, rgba(8,174,234,0.7175245098039216) 0%, rgba(42,245,152,0.8547794117647058) 79%);
+
+}
+
+.counter-sec-cl{
+  padding-top: 6%;
+  padding-bottom: 6%;
+}
+
+.icn-cntr{
+  font-size: 2.3rem;
+  color: white;
+  margin-right: 1.2rem;
+}
+.ctr-fnt{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 2.5rem;
+  color: white;
+}
+
+.unit{
+  font-size: 3rem;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
+
+.sub-line-counter{
+  font-size: 1rem;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+/*Department Page Settings*/
+@media screen and (max-width: 890px){
+  .nme-hod{
+    margin-top: 10% !important;
+  }
+
+}
+
+.cdep-con{
+  margin-top: 5%;
+  text-align: center;
+}
+
+#dep-clg{
+  margin-top: 5%;
+}
+
+/*Contact Page Settings*/
+
+#bottom-contact{
+  background-image: linear-gradient(180deg, #21f3fe 0%,#2597f8 100%);
+  padding-top: 60px;
+}
+
+.agile_map iframe{
+	width:100%;
+	min-height:400px;
+	margin-bottom:-6px;
+}
+
+.agile_map iframe {
+		min-height: 400px;
+	}
+
+/*Resizing The font in contact side panals*/
+@media screen and (max-width: 730px){
+  .resize{
+font-size: 1rem !important;
+  }
+
+.resze-contnr{
+   padding-right: 10% !important;
+   padding-left: 10% !important;
+}
+.btn.btn-social-icon {
+    width: 40px !important;
+    height: 40px !important;
+    padding: 0;
+}
+
+.template-demo>.btn {
+    margin-right: 0.5rem !important;
+}
+
+.template-demo {
+    margin-top: 0.5rem !important;
+}
+
+.btn.btn-rounded {
+    border-radius: 40px !important;
+}
+}
+
+.bot-soc-ico{
+  text-align: right;
+}
+
+@media screen and (max-width: 730px){
+.bot-soc-ico{
+  text-align: center!important;
+            }
+}
+
+.txt-rotate{
+  color: #686d76;
+  text-decoration: none;
+  margin-top: 5%;
+  font-family: 'Ubuntu', sans-serif;
+  font-size:1.3rem;
+}
+/*Admission Portal Setting*/
+
+
+.sqbtn{
+  width: 38%;
+}
+
+.trplcptxt{
+  color: #ffe05d;
+}
+
+#contruction {
+  background: url(../images/Un_C.jpg) no-repeat 0px 0px;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  background-attachment: fixed;
+padding: 1%;
+  margin-top: 1.5%;
+}
+.undercon_img{
+  width: 80%;
+}
+
+/*Faculty Cards*/
+.faculty-card {
+  margin-bottom: 30px;
+  padding-top: 60px; /* Ensure there's space for the image */
+  position: relative;
+}
+.faculty-card img.faculty-photo {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  position: absolute;
+  top: -50px;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 3px solid white;
+}
+.faculty-card-body {
+  text-align: center; /* Center align the content */
+}
+.faculty-modal .modal-content {
+  overflow-y: auto;
+}
+.faculty-modal-body img.faculty-photo {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin: 0 auto 15px;
+  display: block;
+}
+
+/*HOD section container*/
+.dept-container {
+  display: flex;
+  align-items: center;
+  padding:  20px 20px 20px 5%;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.dept-photo {
+  max-width: 150px;
+  margin-right: 20px;
+}
+.dept-info {
+  flex: 1;
+}
+.quote-icon {
+  color: #555;
+  margin-right: 10px;
+}
+
+/* Admission Popup*/
+.custom-modal-content {
+  background: transparent;
+  
+}
+.custom-modal-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+.brochure-image {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  max-height: calc(100vh - 56px); /* 56px is the height of the modal header */
+  object-fit: contain;
+} 

@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+@media print {
+    .header-title-01 {
+        font-size: 1.3em !important;
+        display: block;
+        line-height: 130%;
+        width: 99%;
+    }
+    .header-title-02 {
+        font-size: 1.3em !important;
+        display: block;
+        line-height: 130%;
+        width: 99%;
+    }
+}
+
+@media (max-width:768px) {
+    .header-title-01,
+    .header-title-02 {
+        font-size: .80em;
+        padding: 0px 0 0;
+        line-height: 120%;
+        font-weight: normal
+    }
+    header .col-xs-6 {
+        padding-left: 4px !important;
+        padding-right: 4px !important
+    }
+    .topmenu {
+        padding: 5px 0;
+    }
+}
+
+@media (max-width:599px) {
+    .gom-logo-01 {
+        width: 35px;
+        margin-right: 5px;
+    }
+}
+
+@media (max-width:400px) {
+    .header-title-01,
+    .header-title-02 {
+        font-size: .70em;
+        padding: 0px 0 0;
+        line-height: 120%;
+        font-weight: normal
+    }
+}
+
+@media (max-width:280px) {
+    .header-title-01,
+    .header-title-02 {
+        font-size: .60em;
+    }
+}
